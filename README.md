@@ -21,7 +21,7 @@
 ## Tools
 - [Eclipse](https://www.eclipse.org/) - Java IDE
 
-
+---
 
 # 2. Maximum Temperature
 ## About
@@ -45,7 +45,7 @@ hadoop fs -cat MaxTemp/txt_file_name
 hadoop jar jar_file_path MaxTemp/txt_file_name MaxTempOut
 hadoop fs -cat MaxTempOut/part-r-00000
 ```
-
+---
 
 # 3. Word Count
 ## About
@@ -69,3 +69,4 @@ hadoop fs -cat WordCount/txt_file_name
 hadoop jar jar_file_path WordCount/txt_file_name WordCountOut
 hadoop fs -cat WordCountOut/part-r-00000
 ```
+---
