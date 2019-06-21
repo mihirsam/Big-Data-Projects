@@ -1,4 +1,4 @@
-# Java Practicle
+# 1. Java Practicle
 ## About
 > Basic project to revise **Exception Handling** and **Java Collections**.
 
@@ -22,7 +22,8 @@
 - [Eclipse](https://www.eclipse.org/) - Java IDE
 
 
-# Maximum Temperature
+
+# 2. Maximum Temperature
 ## About
 > Basic project on **Hadoop** framework for finding the maximum temperature from given text file.
 
@@ -44,7 +45,9 @@ hadoop fs -cat MaxTemp/txt_file_name
 hadoop jar jar_file_path MaxTemp/txt_file_name MaxTempOut
 hadoop fs -cat MaxTempOut/part-r-00000
 ```
-# Word Count
+
+
+# 3. Word Count
 ## About
 > Basic project on **Hadoop** framework for finding the count of each word in a text file.
 
